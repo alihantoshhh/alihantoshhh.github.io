@@ -1,0 +1,36 @@
+YOUR OWN PHOTOGRAPHS
+====================
+
+This complete website includes illustrative sample photos so it looks finished immediately.
+The samples are not photographs of you or your actual projects.
+
+HOW TO REPLACE THE SIX PERSONAL PHOTO GALLERY IMAGES
+1. Select six of your photos.
+2. Rename them exactly:
+    personal-01.jpg
+    personal-02.jpg
+    personal-03.jpg
+    personal-04.jpg
+    personal-05.jpg
+    personal-06.jpg
+3. Put them in the SAME folder as index.html. Replace the six sample images.
+4. Upload the changed files to GitHub and commit.
+
+If photos are PNG, WEBP or HEIC, convert/export to JPG first or update the file
+extensions in index.html and script.js.
+
+REPLACE ENGINEERING EXAMPLE IMAGES
+Change the image files while keeping their original names:
+    sonar-lab.jpg      (your sonar prototype / real workbench)
+    robotic-hand.jpg   (your SolidWorks render or hand prototype)
+    fpga-lab.jpg       (your real FPGA + AFE PCB)
+    gearbox.jpg        (your gearbox experiment or diagram)
+    campus.jpg         (your CQU campus photo)
+    chongqing.jpg      (your own city photo)
+    hero-collage.jpg   (your own hero/header montage)
+
+The visible "Concept illustration" tags can be removed from index.html once
+an image has been replaced by an actual photograph of your own work.
+
+For best results: export JPEG around 1400px wide, 75-85% quality, usually <500KB.
+Avoid publishing private identifiers, lab secrets or portraits without permission.
